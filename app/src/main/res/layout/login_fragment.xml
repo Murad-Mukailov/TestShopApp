@@ -39,7 +39,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/bg_card_mercury"
             android:gravity="center"
-            android:hint="First Name"
+            android:hint="@string/first_name"
             android:inputType="text"
             android:lineSpacingExtra="4sp"
             android:padding="16dp"
